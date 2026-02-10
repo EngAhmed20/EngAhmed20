@@ -1,10 +1,8 @@
 <div align="center" width="50%">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
 # 👋 Hi, I'm Ahmed Mohamed
-### Flutter Mobile App Developer
+### Flutter Developer
 
 <a href="https://www.linkedin.com/in/ahmedmohamed12/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed-blue?style=flat&logo=linkedin"/>
@@ -34,7 +32,6 @@ Skilled in **Clean Code**, **Integration Testing**, and effective **Problem Solv
 
 <div align="center">
   <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange" />
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" />
@@ -44,6 +41,9 @@ Skilled in **Clean Code**, **Integration Testing**, and effective **Problem Solv
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Frappe-000000?style=flat&logo=frappe&logoColor=white" />
+<img src="https://img.shields.io/badge/ERPNext-FF5722?style=flat&logo=erpnext&logoColor=white" />
+
 
 <!-- State Management -->
 <img src="https://img.shields.io/badge/Bloc-792EE5?style=flat&logo=flutter&logoColor=white" />
@@ -55,6 +55,9 @@ Skilled in **Clean Code**, **Integration Testing**, and effective **Problem Solv
 <img src="https://img.shields.io/badge/Hive-F5A623?style=flat&logo=flutter&logoColor=white" />
 
 <!-- Tools -->
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
