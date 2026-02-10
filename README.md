@@ -19,3 +19,23 @@ Skilled in **Clean Code**, **Integration Testing**, and effective **Problem Solv
 Eager to contribute to innovative projects and continuously grow as a developer 🚀
 
 </div>
+## 👨‍💻 About
+- Flutter & Dart Mobile App Developer  
+- Strong foundation in Algorithms & Data Structures  
+- Experience with **MVVM, MVC, Clean Architecture**  
+- Emphasis on **Clean Code & Integration Testing**  
+- Flutter Developer at **Truck World Co** (12/2025 – Present)
+
+## 🧩 Tools I Use 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+dart
+class AhmedMohamed extends FlutterDeveloper {
+  final skills = {
+    "Languages": ["Dart", "Python", "C++"],
+    "Flutter": ["Firebase", "Supabase", "REST APIs", "Animations"],
+    "StateManagement": ["Bloc", "Provider", "GetX"],
+    "Architecture": ["Clean Architecture", "MVVM", "MVC"],
+    "LocalStorage": ["SQLite", "Hive", "SharedPreferences"],
+    "Payments": ["PayPal", "Paymob"],
+  };
+}
