@@ -85,7 +85,7 @@ Skilled in **Clean Code**, **Integration Testing**, and effective **Problem Solv
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
+---
 ```dart
 class AhmedMohamed extends FlutterDeveloper {
   final skills = {
